@@ -7,8 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 
 1111111111111111aaaa11
 
+=======
+
+1111111111111111
+
+>>>>>>> branch 'master' of https://github.com/sunliqiang1998/aaaaa.git
 </body>
 </html>
